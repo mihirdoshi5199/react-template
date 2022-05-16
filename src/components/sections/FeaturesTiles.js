@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'STREAMON TECHNOLOGIES',
+    paragraph: 'LEADING WEBCAST, WEBINAR AND 3D DIGITAL EVENTS PLATFORM PROVIDER '
   };
 
   return (
@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                     </p>
                 </div>
               </div>
@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                     </p>
                 </div>
               </div>
@@ -118,8 +118,7 @@ const FeaturesTiles = ({
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </p>
                 </div>
               </div>
             </div>
@@ -140,8 +139,7 @@ const FeaturesTiles = ({
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
                 </div>
               </div>
             </div>
